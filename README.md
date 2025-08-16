@@ -1,7 +1,8 @@
 # Algorithms of DNA Sequencing in Python (Ongoing project)
 This repository contains a collection of scripts, functions, and exercises developed during my progress through the Genomic Data Science Specialization and the Bioinformatics I Honours Track Certification. Furthermore, my solutions to homework from the rosalind bioinformatics platform has also been uploaded. The goal of this work is to build practical proficiency in implementing and debugging genomic algorithms used in computational biology.
 ## Aim
-To efficiently apply fundamental mathematical concepts including combinatorics, set theory and probability to tackle problems in bioinformatics
+To efficiently apply fundamental mathematical concepts including combinatorics, set theory and probability to tackle problems in bioinformatics.
+
 To gain hands-on experience with core algorithmic techniques in bioinformatics, including sequence analysis, pattern matching, and motif discovery, as part of a structured genomics specialization program.
 ## Skills and Algorithms Covered
 Hamming Distance computation for DNA sequence comparison
